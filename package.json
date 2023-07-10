@@ -1,0 +1,30 @@
+{
+  "name": "graph",
+  "version": "1",
+  "description": "Project for graphs",
+  "license": "MIT",
+  "author": {
+    "email": "fabio.jdluz@gmial.com",
+    "name": "Fabio julio da luz",
+    "url": "https://github.com/devluz2023/portfolio"
+  },
+  "repository": "https://github.com/devluz2023/portfolio",
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "node index.ts"
+
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+    "request": "2.87.0",
+    "rimraf": "2.6.3",
+    "source-map-support": "0.5.9",
+    "ts-node": "7.0.1",
+    "tslint": "5.17.0",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "3.5.1"
+  }
+}
